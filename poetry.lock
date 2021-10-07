@@ -1,0 +1,17 @@
+[[package]]
+name = "calculator"
+version = "1.1.0"
+description = "Performs basic calculation operations"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "dfdf7bc35911e9599bf16050e4d1cf9f9bce4e1c7fa1b00b2af2712a0e6437b1"
+
+[metadata.files]
+calculator = [
+    {file = "Calculator-1.1.0.zip", hash = "sha256:bc580e61c893ef098f9e703df4b62e807790e2948494f6d1ed3ba1325e73f7a0"},
+]
